@@ -1,6 +1,6 @@
 <header>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_UTFSM.png" width=200 alt="UTFSM" align="left"/>
-<img src="./imagenes/dmat.png" width= 200 alt="DMAT" align="right"/>
+<img src="./imagenes/dmat.png" width= 250 alt="DMAT" align="right"/>
 </header>
 
 </br></br></br></br></br>
