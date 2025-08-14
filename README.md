@@ -4,7 +4,7 @@
 </header>
 
 </br></br></br></br></br>
-
+\newline
 # Conservación e interacción dinámica de especies nativas y exóticas en una reserva ecológica
 
 [![MAT281 Badge](https://img.shields.io/badge/Proyecto-Memoria-green)](#)
