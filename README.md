@@ -5,9 +5,8 @@
 
 </br></br></br></br></br>
 
-<center>
-# Conservación e interacción dinámica de especies nativas y exóticas en una reserva ecológica
-</center>
+<h1 align="center">Conservación e interacción dinámica de especies nativas y exóticas en una reserva ecológica</h1>
+
 
 [![MAT281 Badge](https://img.shields.io/badge/Proyecto-Memoria-green)](#)
 
