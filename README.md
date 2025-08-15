@@ -69,7 +69,7 @@ A partir de esta premisa, la presente memoria desarrolla y evalúa **seis estrat
 - **memoria.pdf**  
   Documento completo de la memoria. Incluye el análisis numérico, resultados y conclusiones.
 
-- **beamer.pdf**
+- **Presentacion_memoria.pdf**
   Presentación utilizada en la defensa de la memoria.
 
 - **codigos_matlab/**  
