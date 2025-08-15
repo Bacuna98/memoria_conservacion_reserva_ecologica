@@ -20,6 +20,18 @@ En muchas reservas ecológicas, la introducción de especies exóticas puede alt
 
 ---
 
+## Origen del modelo y motivación del estudio
+
+Este trabajo se basa en los resultados de *Acosta-Arreola et al. (2023)*, donde se proponen y analizan distintos modelos matemáticos para describir la interacción dinámica entre especies nativas y exóticas.  
+En dicho estudio, el **modelo II-B** fue identificado como el que mejor representa la realidad observada en la reserva.  
+
+Una de las conclusiones clave del paper es que, **sin intervención humana, las especies nativas tienden a extinguirse** debido a la competencia con la especie exótica.  
+
+A partir de esta premisa, la presente memoria desarrolla y evalúa **seis estrategias de manejo** que combinan tala y replantación, con el objetivo de analizar su impacto sobre la conservación de las especies nativas y el control de la especie exótica.
+
+---
+
+
 ## Objetivos
   
 - Evaluar el efecto de distintas estrategias de manejo (replantación, tala) sobre la supervivencia de las especies.
@@ -98,8 +110,6 @@ Cada subcarpeta en `codigos_matlab` contiene scripts independientes que permiten
 ## Referencias
 
 1. Acosta-Arreola, et al. (2023). *Modelo II-B y estrategias de manejo de especies.*  
-2. Aguirre, P. (2020). *Ecuaciones diferenciales y sistemas dinámicos.*  
-3. Aguirre, P. (2021). *Modelos biomatemáticos y bifurcaciones.*
 
 ---
 
