@@ -91,6 +91,8 @@ A partir de esta premisa, la presente memoria desarrolla y evalúa **seis estrat
 
 ![Resultados ejemplo](./imagenes/simulacion_ejemplo.png)  
 
+*Figura: Ejemplo de simulación de la dinámica poblacional bajo el efecto de replantación en la primera especie nativa*
+
 ---
 
 ## Requisitos
