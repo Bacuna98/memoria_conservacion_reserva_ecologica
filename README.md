@@ -66,8 +66,11 @@ A partir de esta premisa, la presente memoria desarrolla y evalúa **seis estrat
 
 ## Contenido del Repositorio
 
-- **memoria/**  
-  Contiene el PDF de la memoria completa y la presentación utilizada para la defensa.  
+- **memoria.pdf**  
+  Documento completo de la memoria. Incluye el análisis numérico, resultados y conclusiones.
+
+- **beamer.pdf**
+  Presentación utilizada en la defensa de la memoria.
 
 - **codigos_matlab/**  
   Contiene todos los códigos MATLAB organizados por estrategia de manejo:
