@@ -62,22 +62,21 @@ A partir de esta premisa, la presente memoria desarrolla y evalúa **seis estrat
 3. **Simulación Numérica en MATLAB**  
   Implementación de códigos para explorar la evolución poblacional bajo cada estrategia de manejo propuesta.
 
-![Simulación ejemplo](./imagenes/simulacion_ejemplo.png)  
-
-*Figura: Ejemplo de simulación de dinámica poblacional.*
-
 ---
 
 ## Contenido del Repositorio
 
-- **memoria_y_presentacion/**  
+- **memoria/**  
   Contiene el PDF de la memoria completa y la presentación utilizada para la defensa.  
 
 - **codigos_matlab/**  
   Contiene todos los códigos MATLAB organizados por estrategia de manejo:
-  - `estrategia1/`: análisis de estabilidad de puntos de equilibrio.
-  - `estrategia2/`: simulaciones con replantación proporcional.
-  - `estrategia3/`: estudios de tala periódica y trayectorias 3D.
+  - `estrategia1/`: Tala constante del eucalipto.
+  - `estrategia2/`: Replantación constante del Tepozán.
+  - `estrategia3/`: Replantación constante del Palo Loco.
+  - `estrategia4/`: Replantación conjunta de ambas especies nativas.
+  - `estrategia5/`: Replantación conjunta de especies nativas + tala constante del eucalipto.
+  - `estrategia6/`: Replantación conjunta de especies nativas + tala periódica del eucalipto.
 
 - **imagenes/**  
   Carpeta con imágenes usadas en el README (logos, diagramas, resultados).
@@ -87,10 +86,10 @@ A partir de esta premisa, la presente memoria desarrolla y evalúa **seis estrat
 ## Resultados principales
 
 - Identificación de regiones de supervivencia para cada especie según estrategia de manejo.  
-- Gráficos 3D de trayectorias de poblaciones bajo distintos escenarios.  
+- Gráficos 2D de trayectorias de poblaciones bajo distintos escenarios.  
 - Comparación de estrategias de conservación y sus efectos sobre la coexistencia de especies.
 
-![Resultados ejemplo](./imagenes/resultados.png)  
+![Resultados ejemplo](./imagenes/simulacion_ejemplo.png)  
 
 ---
 
