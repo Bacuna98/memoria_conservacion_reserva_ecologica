@@ -66,7 +66,7 @@ A partir de esta premisa, la presente memoria desarrolla y evalúa **seis estrat
 
 ## Contenido del Repositorio
 
-- **memoria.pdf**  
+- **Memoria.pdf**  
   Documento completo de la memoria. Incluye el análisis numérico, resultados y conclusiones.
 
 - **Presentacion_memoria.pdf**
