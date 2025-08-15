@@ -10,7 +10,7 @@
 
 [![MAT281 Badge](https://img.shields.io/badge/Proyecto-Memoria-green)](#)
 
-Repositorio de la memoria ‘Conservación e interacción dinámica de especies nativas y exóticas en una reserva ecológica’, que incluye modelos matemáticos y simulaciones numéricas para estudiar la interacción y conservación de las especies
+Repositorio de la memoria "Conservación e interacción dinámica de especies nativas y exóticas en una reserva ecológica", que incluye modelos matemáticos y simulaciones numéricas para estudiar la interacción y conservación de las especies.
 
 ---
 
@@ -18,33 +18,37 @@ Repositorio de la memoria ‘Conservación e interacción dinámica de especies 
 
 En muchas reservas ecológicas, la introducción de especies exóticas puede alterar el equilibrio natural, afectando la supervivencia de especies nativas y la dinámica de los ecosistemas. La correcta gestión de estas especies requiere herramientas que permitan predecir cómo distintas estrategias de manejo afectan la coexistencia de especies.
 
-![Esquema ecológico](./imagenes/esquema_ecosistema.png)  
-
-*Figura: Esquema ilustrativo de interacción entre especies nativas y exóticas.*
-
 ---
 
 ## Objetivos
-
-- Analizar la dinámica poblacional de especies nativas y exóticas mediante modelos matemáticos.  
-- Evaluar el efecto de distintas estrategias de manejo (replantación, tala) sobre la supervivencia de las especies.  
+  
+- Evaluar el efecto de distintas estrategias de manejo (replantación, tala) sobre la supervivencia de las especies.
+- Analizar la dinámica poblacional de especies nativas y exóticas mediante modelos matemáticos.
 - Desarrollar herramientas de simulación numérica en MATLAB para explorar distintos escenarios de conservación.
+
+---
+
+## Estrategias de manejo evaluadas
+
+1. Tala constante del eucalipto.
+2. Replantación constante del Tepozán.
+3. Replantación constante del Palo Loco.
+4. Replantación conjunta de ambas especies nativas.
+5. Replantación conjunta de especies nativas + tala constante del eucalipto.
+6. Replantación conjunta de especies nativas + tala periódica del eucalipto.
 
 ---
 
 ## Metodología
 
 1. **Modelación Matemática**  
-   Se desarrollaron sistemas de ecuaciones diferenciales no lineales para modelar la dinámica de tres especies.
+   Se empleó el modelo II-B como base, formulando un sistema de ecuaciones diferenciales no lineales para describir la dinámica de las tres especies.
 
 2. **Análisis de Puntos Críticos y Estabilidad**  
    Se determinaron los puntos de equilibrio y su estabilidad según distintas condiciones y estrategias.
 
 3. **Simulación Numérica en MATLAB**  
-   Se realizaron simulaciones temporales y espaciales para estudiar la evolución de las poblaciones.
-
-4. **Estudio de Estrategias de Manejo**  
-   Se evaluaron estrategias como tala constante, tala periódica y replantación proporcional.
+  Implementación de códigos para explorar la evolución poblacional bajo cada estrategia de manejo propuesta.
 
 ![Simulación ejemplo](./imagenes/simulacion_ejemplo.png)  
 
